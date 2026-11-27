@@ -1,1 +1,1 @@
-# git-journay
+# git-journey
